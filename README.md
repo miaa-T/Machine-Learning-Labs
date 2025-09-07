@@ -56,14 +56,6 @@ The labs rely on Python scientific computing libraries, while focusing on **impl
 
 ---
 
-## 🚀 Future Extensions  
-
-- Ensemble learning in depth (Random Forests, Gradient Boosting)  
-- Convolutional Neural Networks (CNNs) for image data  
-- Recurrent Neural Networks (RNNs) for sequential data  
-
----
-
 ## 📌 How to Use  
 
 1. Clone the repo  
